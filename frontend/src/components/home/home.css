@@ -1,0 +1,6 @@
+.brandname{
+    background-image: linear-gradient(blue,skyblue,skyblue,blue,skyblue,blue);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: 900;
+}
